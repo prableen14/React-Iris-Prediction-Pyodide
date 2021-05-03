@@ -101,7 +101,7 @@ function App() {
 
     <div className="App">
       <div className="App-github">
-          <a href="https://github.com/prableen14" target="_blank">
+          <a href="https://github.com/prableen14/React-Iris-Prediction-Pyodide" target="_blank">
             <img src={github} height="100%" width="100%" />
           </a>
       </div>
