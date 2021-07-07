@@ -1,4 +1,5 @@
 Watch Live at https://iris-pyodide-react.herokuapp.com/
+*Kindly wait for some time in the beginning for getting predicted output😃 Cheers!
 # Getting started with pyodide in React
 
 This repository shows how to classify Iris using scikit-learn directly inside your react app (all happening client-side).
