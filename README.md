@@ -1,13 +1,11 @@
 Watch Live at https://iris-pyodide-react.herokuapp.com/
 
-Kindly wait for some time in the beginning for getting predicted output😃 Cheers!
+Kindly wait for some time in the beginning for getting predicted output since it is downloading large files through the network. Cheers😃
 # Getting started with pyodide in React
 
 This repository shows how to classify Iris using scikit-learn directly inside your react app (all happening client-side).
 
 ![Image demoing the Iris app](./images/iris-demo.gif)
-
-The app will take one minute to load the first time since it is downloading large files through the network.
 
 ## Quickstart
 
